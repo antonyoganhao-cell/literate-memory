@@ -1,1 +1,1 @@
-Reposiótio exploratório inicial
+Repositório exploratório inicial
